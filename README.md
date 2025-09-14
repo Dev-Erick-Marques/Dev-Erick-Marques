@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Erick 👋
 
-<!--
-**Dev-Erick-Marques/Dev-Erick-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Java Developer and Software Engineering student, passionate about back-end development, **microservices**, and clean architecture.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+- **Languages:** Java, SQL  
+- **Frameworks:** Spring Boot, Spring Security, JPA/Hibernate  
+- **Databases:** MySQL, PostgreSQL  
+- **Version Control:** Git, GitHub  
+- **Others:** Docker, JWT, Flyway, Maven  
+
+---
+
+## 📂 Featured Projects
+- **RSA 256 Key Generator**: Simple project to generate public/private key pairs.  
+- **Product Service**: A microservice for managing products on the e-commerce platform.  
+- **Auth Service**: A dedicated microservice for authentication and authorization.  
+  
+ 
+
+👉 Check out my pinned repositories below for more details.
+
+---
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/erick-marques-18a337198/)
+- [Email](mailto:erickmarques2564@gmail.com)  
+
+---
+
+## ⚡ Fun Facts
+- I thrive on **solving complex problems** and turning them into opportunities for meaningful learning.  
+- Always exploring **microservices patterns**, **scalable design**, and the principles of **clean, maintainable code**.  
